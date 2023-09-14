@@ -1,5 +1,7 @@
 # Currency Conversion
 
+![Project Currency Preview](screenshot.png)
+
 A simple web application for converting currencies using React.
 
 ## Table of Contents
