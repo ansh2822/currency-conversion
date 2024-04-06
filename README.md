@@ -1,4 +1,4 @@
-# Currency Conversion
+# Currency Conversion Calculator
 
 ![Project Currency Preview](screenshot.png)
 
